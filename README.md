@@ -1,4 +1,4 @@
-# Repository Name: Language_Model_Test
+# Repository Name: Testing cense's LLM for .csv conversion
 
 ## Description
 This repository contains resources to test and experiment with the .csv conversion LLM. Specifically, it includes a Jupyter notebook designed to demonstrate the capabilities of the finetuned model. The notebook allows users to interact with the model, generate text, and explore its generalization ability on unseen data structures. 
